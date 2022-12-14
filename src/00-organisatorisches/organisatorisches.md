@@ -1,19 +1,24 @@
 ---
 marp: true
-theme: gaia
-_class: lead
-paginate: false
-backgroundColor: #fff
-revealjs.slideNumber: false
-revealjs.highlightTheme: Zenburn
 ---
 
-# **Informatik 1**
+<!--
+theme: uncover
+paginate: false
+backgroundColor:
+revealjs.slideNumber: false
+revealjs.highlightTheme: Zenburn
+-->
 
-## Organisatorisches
+
+# Informatik 1 <!--fit-->
 
 TEL22A - DHBW Mannheim
 Reiner Hüchting
+
+---
+
+## Organisatorisches
 
 ---
 
