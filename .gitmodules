@@ -1,0 +1,3 @@
+[submodule "src/latex-course-macros"]
+	path = src/latex-course-macros
+	url = git@github.com:ReinerHuechting/latex-course-macros.git
