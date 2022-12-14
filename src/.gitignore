@@ -1,6 +1,5 @@
 ## Build output
-folien.pdf
-rekursion.pdf
+*.pdf
 
 ## Core latex/pdflatex auxiliary files:
 *.aux

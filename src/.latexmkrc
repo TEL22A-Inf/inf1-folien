@@ -6,4 +6,6 @@ $do_cd = 1;
 $clean_ext = 'snm nav synctex.gz';
 @default_files = (
   'folien.tex',
+  '00_organisatorisches.tex',
+  '01_themenueberblick.tex',
 );
