@@ -8,4 +8,5 @@ $clean_ext = 'snm nav synctex.gz';
   'folien.tex',
   '00_organisatorisches.tex',
   '01_themenueberblick.tex',
+  'rekursion.tex',
 );
